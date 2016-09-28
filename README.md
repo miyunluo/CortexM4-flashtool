@@ -20,4 +20,5 @@ optional arguments:
 EasyFlashv2.1.py 为图形界面烧录器，使用时自主选择即可
 
 注意：使用COM端通信需要先用官方烧录器擦除RAM
+
 Notion: erase the RAM first. 
